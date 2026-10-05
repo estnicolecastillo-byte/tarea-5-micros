@@ -1,4 +1,6 @@
 # Control de Brazo Robótico URDF en Tiempo Real con ESP32, Python y PyBullet
+# NICOLE NATALIA CASTILLO
+# KEVIN ALEJANDRO VEGA MEDINA 
 
 Este proyecto implementa la integración entre un sistema embebido (**ESP32**), comunicación serie **UART** y un entorno de simulación física 3D en **Python** con **PyBullet**, para manipular el modelo robótico definido en `brazo.urdf`.
 
