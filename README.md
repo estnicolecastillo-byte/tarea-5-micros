@@ -54,7 +54,8 @@ Se implementó un circuito en protoboard utilizando **3 potenciómetros** conect
 
 Cada potenciómetro se alimenta con 3.3 V y GND de la ESP32, y su pin central (cursor) va al GPIO correspondiente.
 
-![Montaje del circuito en protoboard](img/montaje_circuito.jpg)
+<img width="944" height="627" alt="image" src="https://github.com/user-attachments/assets/0c4510eb-69c5-4e9f-8148-40a4247f38e9" />
+
 
 ---
 
@@ -195,17 +196,14 @@ p.disconnect()
 
 ## Evidencias de Funcionamiento
 
-### Montaje físico
 
-![ESP32 y potenciómetros en protoboard](img/montaje_circuito.jpg)
 
-### Modelo cargado en VS Code (URDF Preview) y terminal
+<img width="944" height="627" alt="image" src="https://github.com/user-attachments/assets/7b0685eb-f201-48c2-af06-2e05474f4423" />
 
-![Proyecto en VS Code con URDF Preview](img/vscode_urdf_preview.png)
+<img width="1428" height="728" alt="image" src="https://github.com/user-attachments/assets/4f18b7dd-2e3d-4339-9ff8-746bab72f184" />
 
-### Simulación en PyBullet
+<img width="1445" height="704" alt="image" src="https://github.com/user-attachments/assets/cd4df246-764b-49da-80a4-d9ed38009b70" />
 
-![Ventana de PyBullet con el brazo](img/pybullet_simulacion.png)
 
 
 
